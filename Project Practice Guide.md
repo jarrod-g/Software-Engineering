@@ -1,8 +1,8 @@
 **Project Practice Guide**
-* Collaboration and Communication
-   * Daily stand-ups
-   * Weekly full-length meetings
-   * Make sure everyone knows well in advance about days and times of meetings, and what is going to be discussed in those meetings
+Collaboration and Communication
+* Daily stand-ups
+* Weekly full-length meetings
+* Make sure everyone knows well in advance about days and times of meetings, and what is going to be discussed in those meetings
 
 
 Requirements Engineering
