@@ -1,4 +1,5 @@
 **Project Practice Guide**
+
 Collaboration and Communication
 * Daily stand-ups
 * Weekly full-length meetings
