@@ -13,7 +13,6 @@ The team feels that after our research period is complete we can provide accurat
 
 Name | Estimated time for completion | Members Req
 -----|-------------------------------|------------
-
 Deliverable 1 and Planning | 1 week | 4
 Research and planning | 2 weeks | 4
 Recommendations for Project Approach | 2 weeks | 4
