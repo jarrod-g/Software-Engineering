@@ -31,3 +31,5 @@ Managing Change
 Quality Assurance
 * GitHub is a good way to do this, as it requires approval from other people in the team in order to process a change, and so everyone in the group can have a role in Quality Assurance.
 * Other tools ? - DISCUSSION POINT
+* 
+cole is cool
