@@ -1,4 +1,4 @@
-Project Tool Guide
+**Project Tool Guide**
 * Collaboration and Communication
 * Skype
 * Trello
