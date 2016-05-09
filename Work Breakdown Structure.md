@@ -1,4 +1,4 @@
-*Work Breakdown Structure*
+**Work Breakdown Structure**
 
 We have chosen Case Study 3, Product: Multiplayer interactive game. 
 
