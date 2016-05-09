@@ -4,10 +4,18 @@ Collaboration and Communication
 * Daily stand-ups
 * Weekly full-length meetings
 * Make sure everyone knows well in advance about days and times of meetings, and what is going to be discussed in those meetings
+* Workspace layout contributes to communication across different sectors
 
 
 Requirements Engineering
-* Need help with this one! :D
+* Requirements elicitation
+* Requirements specification
+   * What game engine is required?
+   * Proof of concept
+   * Design method
+   * Anything else required? Art design?
+* Systems modelling
+
 
 
 Project Planning and Tracking
@@ -32,5 +40,3 @@ Managing Change
 Quality Assurance
 * GitHub is a good way to do this, as it requires approval from other people in the team in order to process a change, and so everyone in the group can have a role in Quality Assurance.
 * Other tools ? - DISCUSSION POINT
-* 
-cole is cool
