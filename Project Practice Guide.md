@@ -1,4 +1,4 @@
-Project Practice Guide
+**Project Practice Guide**
 * Collaboration and Communication
 * Daily stand-ups
 * Weekly full-length meetings
@@ -12,20 +12,20 @@ Requirements Engineering
 Project Planning and Tracking
 * Maintain version control using a tool like GitHub
 * Track progress using a tool like Trello
-* Estimate velocity using one of two methods (I read the textbook… ;) ):
+* Estimate velocity using one of two methods (I read the textbookâ€¦ ;) ):
     * Gut feel
     * Velocity calculations
       * Decide estimated velocity
-        * Look at the team’s history, this technique is known as yesterday’s weather. This is only feasible for teams that have done a few sprints already. If this is the team’s first sprint (so statistics are available). It’s also only feasible if the team will do the next sprint in pretty much the same way, with the same team size and same working conditions etc. This is of course not always the case.
+        * Look at the teamâ€™s history, this technique is known as yesterdayâ€™s weather. This is only feasible for teams that have done a few sprints already. If this is the teamâ€™s first sprint (so statistics are available). Itâ€™s also only feasible if the team will do the next sprint in pretty much the same way, with the same team size and same working conditions etc. This is of course not always the case.
           A more sophisticated technique is to do simple resource calculation (SCRUM and XP from the Trenches, page 36)
-          This takes into account a ‘focus factor’ along with the ‘available man-days’. Of course, a new team will not have a focus factor for the first sprint. This is fine, for the first sprint, you can simply make a guess, as once the first sprint is done, you will have an actual ‘focus factor’ for the next sprint. A good default ‘focus factor’ for the first sprint is 70%.
+          This takes into account a â€˜focus factorâ€™ along with the â€˜available man-daysâ€™. Of course, a new team will not have a focus factor for the first sprint. This is fine, for the first sprint, you can simply make a guess, as once the first sprint is done, you will have an actual â€˜focus factorâ€™ for the next sprint. A good default â€˜focus factorâ€™ for the first sprint is 70%.
       * Calculate how many stories you can add without exceeding the estimated velocity
-        * To do this, you first calculate the ‘focus factor’. Focus Factor = Actual Velocity / Available Man-Days.
-          Then, you use that ‘focus factor’ to calculate the next sprint’s estimated velocity, e.g. 50 Man-Days * 40% = 20 story points.
+        * To do this, you first calculate the â€˜focus factorâ€™. Focus Factor = Actual Velocity / Available Man-Days.
+          Then, you use that â€˜focus factorâ€™ to calculate the next sprintâ€™s estimated velocity, e.g. 50 Man-Days * 40% = 20 story points.
           You now have an estimated velocity of 20 story points, so the team should add stories to the sprint until it adds up to approximately 20.
 
 Managing Change
-* The above methods under ‘Project Planning and Tracking’ both play a part in managing change, as things like a lower ‘focus factor’ or an extra person who has just joined the team can be taken into account in the calculations.
+* The above methods under â€˜Project Planning and Trackingâ€™ both play a part in managing change, as things like a lower â€˜focus factorâ€™ or an extra person who has just joined the team can be taken into account in the calculations.
 * Other ways of managing change? - DISCUSSION POINT
 
 Quality Assurance
