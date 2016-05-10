@@ -2,9 +2,13 @@
 
 Collaboration and Communication
 * Daily stand-ups
+  * Daily stand-ups are very important in SCRUM in order to touch-base and monitor the progress of the project, as everyone needs to be aware of what they need to get done and what everyone else has to get done, so that deadlines are met. However, in some cases, daily in-person meetings can be too much for certain people or groups as everyone has their own commitments. Because of this, it is good to arrange an alternative method of have a daily stand-up remotely, e.g. Skype conference.
 * Weekly full-length meetings
+  * It is very important to have at least one full-length in-person meeting each week in order to collaborate on work and collate completed work. It should be made clear to everyone in the first meeting that these meetings are very important, and should anyone absolutely be unable to come to the meeting in-person for whatever reason, be it they have an urgent commitment, are sick etc. then they should atleast try to jump on a VOIP channel like Skype, so someone who will be at the meeting physically can open Skype and the 'away' person can join the meeting remotely.
 * Make sure everyone knows well in advance about days and times of meetings, and what is going to be discussed in those meetings
+  * This is also very important, as trying to arrange these things on-the-go is a lot more difficult than it seems. It is much better to arrange everything that's going to happen in every meeting from the first meeting, and layout a plan for adjustments should something not go as planned, and it almost certainly won't. The plan should be something like "If in the Skype meeting on Friday, we decide we need to meet in person urgently, we will either arrange to meet in-person next Tuesday, or if it's really urgent, sometime in the weekend". This ensures that should something go wrong, everyone is aware of what needs to happen and what they need to do. 
 * Workspace layout contributes to communication across different sectors
+  * If any of you have the time, see if you can find an article or two on this. I found one that showed employees preferred a closed-plan office, but I would like to try and see if we can find some articles that say otherwise, to get both sides.
 
 
 Requirements Engineering
