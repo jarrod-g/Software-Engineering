@@ -13,12 +13,20 @@ Collaboration and Communication
 
 Requirements Engineering
 * Requirements elicitation
+	* Document your approach and create a strawman to generate the right conversation
+	* Send input material to participants in advance, with clearly defined objectives for the specific elicitation event
+	* Continue to revalidate the requirement until it is clear and can be acted upon by those who read them
 * Requirements specification
-   * What game engine is required?
-   * Proof of concept
-   * Design method
-   * Anything else required? Art design?
+	* The requirements specification should contain information about what is required for the project.
+		* What game engine is required? Does it need to be a high-end game engine? Or can you make do with a cheaper, low-end engine? These kinds of things will need to be taken into account when creating the requirements specification.
+		* Proof of concept.
+			* Proof of Concept is really important for any project, as in order for an idea to become reality, people need to see a Proof of Concept, particularly if you are looking to raise money via an investor.
+			The Proof of Concept can be as simple or advanced as you like. It could be just be a sketch on a piece of paper, or it could be a functional product. For this particular case study, a simple demo should suffice.
+		* Design method
+			* What methods will you use to design the game? This would also be in listed in the requirements specification, as it is very important to plan out how the video game is going to be designed.
+		* Anything else required? Art design?
 * Systems modelling
+	* Not sure about this one?
 
 
 
@@ -39,10 +47,10 @@ Project Planning and Tracking
 
 Managing Change
 * The above methods under ‘Project Planning and Tracking’ both play a part in managing change, as things like a lower ‘focus factor’ or an extra person who has just joined the team can be taken into account in the calculations.
-* Other ways of managing change? - DISCUSSION POINT
+* Many Humans are naturally resist change. This is a problem in a world where everything is constantly evolving. 
+* Change management is the process by which an organization gets to its future state, its vision. Creating change starts with creating a vision for change and then empowering individuals to act as change agents to attain that vision. The empowered change management agents need plans that provide a total systems approach, are realistic, and are future oriented. Change management encompasses the effective strategies and programs to enable those change agents to achieve the new vision. (Lorenzi & Riley, 2000)
+* Struggling with this one....need to discuss it in touch-base meeting on Friday
 
 Quality Assurance
 * GitHub is a good way to do this, as it requires approval from other people in the team in order to process a change, and so everyone in the group can have a role in Quality Assurance.
-* Other tools ? - DISCUSSION POINT
-
-Just testing out adding to repo using Desktop client :)
+* After getting the hang of GitHub myself, I've found that the version control and quality assurance it offers is extremely good, as you can create branches that allow you to modify files, while leaving the original copies in the master branch unaffected. Once you have made changes, you can then submit a pull request to merge the local branch back into the master branch, and it will tell you if there are any conflicts. This way, someone can approve any and all changes before they are applied to the original copies of the files.
