@@ -45,10 +45,10 @@ Project Planning and Tracking
           A more sophisticated technique is to do simple resource calculation (SCRUM and XP from the Trenches, page 36)
           This takes into account a ‘focus factor’ along with the ‘available man-days’. Of course, a new team will not have a focus factor for the first sprint. This is fine, for the first sprint, you can simply make a guess, as once the first sprint is done, you will have an actual ‘focus factor’ for the next sprint. A good default ‘focus factor’ for the first sprint is 70%.
       * Calculate how many stories you can add without exceeding the estimated velocity
-        * To do this, you first calculate the ‘focus factor’. Focus Factor = Actual Velocity / Available Man-Days.
+      	* To do this, you first calculate the ‘focus factor’. Focus Factor = Actual Velocity / Available Man-Days.
           Then, you use that ‘focus factor’ to calculate the next sprint’s estimated velocity, e.g. 50 Man-Days * 40% = 20 story points.
           You now have an estimated velocity of 20 story points, so the team should add stories to the sprint until it adds up to approximately 20.
-	*(gnatt chart, Microsoft project)
+	*(gantt chart, Microsoft project)
 
 Managing Change
 * The above methods under ‘Project Planning and Tracking’ both play a part in managing change, as things like a lower ‘focus factor’ or an extra person who has just joined the team can be taken into account in the calculations.
