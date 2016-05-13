@@ -50,7 +50,7 @@ Project Planning and Tracking
 * Gantt Chart
 	* A Gantt Chart is another useful method/tool for tracking project progress. It does this by illustrating a project schedule along a timeline. It illustrates the start and finish dates of the individual elements of a project.
 * Microsoft Project
-	* Microsoft Project can also be a useful method/tol for tracking project progress, as it provides a range of utilities for different kinds of graphs and charts, including Gantt Charts, as well as other features to help track progress.
+	* Microsoft Project can also be a useful method/tool for tracking project progress, as it provides a range of utilities for different kinds of graphs and charts, including Gantt Charts, as well as other features to help track progress.
 
 Managing Change
 * The above methods under ‘Project Planning and Tracking’ both play a part in managing change, as things like a lower ‘focus factor’ or an extra person who has just joined the team can be taken into account in the calculations.
