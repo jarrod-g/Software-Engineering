@@ -25,6 +25,10 @@ Requirements Engineering
 		* Design method
 			* What methods will you use to design the game? This would also be in listed in the requirements specification, as it is very important to plan out how the video game is going to be designed.
 		* Anything else required? Art design?
+		* (planning poker)
+		* (story points)
+		* 
+		
 * Systems modelling
 	* Not sure about this one?
 
@@ -44,13 +48,17 @@ Project Planning and Tracking
         * To do this, you first calculate the ‘focus factor’. Focus Factor = Actual Velocity / Available Man-Days.
           Then, you use that ‘focus factor’ to calculate the next sprint’s estimated velocity, e.g. 50 Man-Days * 40% = 20 story points.
           You now have an estimated velocity of 20 story points, so the team should add stories to the sprint until it adds up to approximately 20.
+	*(gnatt chart, Microsoft project)
 
 Managing Change
 * The above methods under ‘Project Planning and Tracking’ both play a part in managing change, as things like a lower ‘focus factor’ or an extra person who has just joined the team can be taken into account in the calculations.
 * Many Humans are naturally resist change. This is a problem in a world where everything is constantly evolving. 
 * Change management is the process by which an organization gets to its future state, its vision. Creating change starts with creating a vision for change and then empowering individuals to act as change agents to attain that vision. The empowered change management agents need plans that provide a total systems approach, are realistic, and are future oriented. Change management encompasses the effective strategies and programs to enable those change agents to achieve the new vision. (Lorenzi & Riley, 2000)
 * Struggling with this one....need to discuss it in touch-base meeting on Friday
+* (Change manaagement plan) 
 
 Quality Assurance
 * GitHub is a good way to do this, as it requires approval from other people in the team in order to process a change, and so everyone in the group can have a role in Quality Assurance.
 * After getting the hang of GitHub myself, I've found that the version control and quality assurance it offers is extremely good, as you can create branches that allow you to modify files, while leaving the original copies in the master branch unaffected. Once you have made changes, you can then submit a pull request to merge the local branch back into the master branch, and it will tell you if there are any conflicts. This way, someone can approve any and all changes before they are applied to the original copies of the files.
+* (quality assurance plan) testing senelium software, testers passed on the user stories after completed by developer.
+* 
