@@ -1,4 +1,4 @@
-**Project Tool Guide**
+<strong>Project Tool Guide</strong>
 
 **Collaboration and Communication**
 * Skype and Teamviewer
