@@ -17,8 +17,10 @@
 Trello is a project management tool that allows the entire scrum board to be availabe online with the whole team being able to view and update. Again this allows the entire team to keep up with how the sprint is progressing and also allows them to move their indivual cards and attach notes to any of the tasks for the whole project.
 Google Docs we feel would be usful to archive documents related to the project as it allows a number of document formats including word documents and spreadsheets. This will allow the team to have any infomation they require anytime they may need it.</p>
 
+
 **Managing Change**
 <p>The change management plan will be the offical document that will provide how any changes to the project will be handled, the tools that will assist in this process are goggle doc's that can store all the change request forms, goggle hangouts where the initial change requests can be discussed in the daily team meetings and sprint reviews. In Trello notes can be added to the cards along with updated checklists and finally Github will provide the actual change with code updates on different branches.</p>
+
 
 **Quality Assurance**
 <p> We recommend the actual code of the project to be saved by Github. Using this as the main code repository will allow version control with indivual team members being able to sign off on any changes made and view all of the code of the project as needed.
