@@ -1,6 +1,6 @@
 **Project Tool Guide**
 
-<p> The following recommened tools listed below have all been chosen with the main feature of online acessablity. This will provide the project team the power of being able to work on the project from any location and give the team more flexabily when it comes to the project. All of the tools will give the project manager and team members up to the minute infomation and control. 
+<p> The following recommened tools listed below have all been chosen with the main feature of online accessablity. This will provide the project team the power of being able to work on the project from any location and give the team more flexabily when it comes to the project. All of the tools will give the project manager and team members up to the minute infomation and control. 
 </p>
 
 **Collaboration and Communication**
