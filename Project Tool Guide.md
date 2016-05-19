@@ -25,6 +25,6 @@ Google Docs we feel would be usful to archive documents related to the project a
 **Quality Assurance**
 <p> We recommend the actual code of the project to be saved by Github. Using this as the main code repository will allow version control with indivual team members being able to sign off on any changes made and view all of the code of the project as needed.
 Github will ensure that the project is maintained and kept up to date and can be used across all smart and mobile devices.
-Testing of the software can also be easily tracked with github with and changes that need to be made noted directly to the code base. 
+Testing of the software can also be easily tracked with github and changes that need to be made can be noted directly to the code base. 
 </p>
 
