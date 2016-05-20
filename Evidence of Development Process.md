@@ -12,11 +12,11 @@
     * Google Drive
       <br>Google Drive served as our main shared storage where we added important documents that were not apart of our deliverables including the assignment outline, contact details, research files and minutes from meetings.
       <br>![Drive](/Screenshots/Google Drive_Small.png)
-    * Github
-      <br>
 * Planning and Tracking
-  * 
+    
 * Version Control
-  * 
+  * Github
+      <br>
+      <br>![GitHub](/Screenshots/GitHub_Small.png)
 * Quality Assurance
   * 
