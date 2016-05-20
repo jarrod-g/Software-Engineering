@@ -1,5 +1,4 @@
 #Introduction
-
 Details about the game project
 
 #Recommendations
