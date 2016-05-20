@@ -8,8 +8,10 @@
       <br>![Trello](/Screenshots/Discord_Small.png)
     * Trello
       <br>Our group used Trello in order to plan our project with regards to what needed to be done, who was going to do it and when it needed to be done by. We set up lists to represent 'unstarted deliverables', 'works in progress', 'to proof/edit' and then 'complete'. Within the 'unstarted deliverables', we created cards to represent each deliverable and moved them through the other lists as we progressed with them.
+      <br>![Trello](/Screenshots/Trello_Small.png)
     * Google Drive
       <br>Google Drive served as our main shared storage where we added important documents that were not apart of our deliverables including the assignment outline, contact details, research files and minutes from meetings.
+      <br>![Trello](/Screenshots/Google Drive_Small.png)
     * Github
       <br>
 * Planning and Tracking
